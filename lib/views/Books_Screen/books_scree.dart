@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fb_lite_clone/models/books_model.dart';
-import 'package:sizer/sizer.dart';
+
 
 class BookScreen extends StatelessWidget {
   const BookScreen({Key? key}) : super(key: key);
