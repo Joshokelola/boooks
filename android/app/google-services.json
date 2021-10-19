@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279146316692",
+    "project_id": "fbclone-58a08",
+    "storage_bucket": "fbclone-58a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279146316692:android:1952571d7269119fab8581",
+        "android_client_info": {
+          "package_name": "com.quantum.fb.flutter_fb_lite_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279146316692-p2ovsv1s0cqr6b517bu9r6o3dufh918g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBThGW9SOcTkPF02iv-il9U6N4bzs_qXkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279146316692-p2ovsv1s0cqr6b517bu9r6o3dufh918g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

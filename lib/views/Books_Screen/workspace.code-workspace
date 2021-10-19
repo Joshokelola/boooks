@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\images"
+		}
+	],
+	"settings": {
+		"dart.flutterSdkPath": "C:\\src\\flutter_windows_2.2.2-stable"
+	}
+}
