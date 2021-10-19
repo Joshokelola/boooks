@@ -1,6 +1,6 @@
-# flutter_fb_lite_clone
+# boooks
 
-A Facebook Lite Clone...
+felt bored, so i tried to build a readera ui clone (._.)
 
 ## Getting Started
 
